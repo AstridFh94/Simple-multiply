@@ -1,0 +1,18 @@
+
+#numOne{
+  border-radius: 5px;
+}
+#numTwo{
+  border-radius: 5px;
+}
+#answer{
+  border-radius: 5px;
+}
+#button{
+  border-radius: 5px;
+  padding: 4px 12px;
+}
+#button:hover{
+  background-color: #73aaea;
+  transition: all 0,8s linear;
+}
